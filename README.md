@@ -3,7 +3,7 @@
 ---
 The point of the take home task is to give you the opportunity to demonstrate your strengths in the most open and creative way possible.
 
-The task itself is entirely up to you to choose, but ideally you should choose something that focuses on using software to make life easier or better in some way. It would be nice to see the use of generative AI, but it is not a hard requirement. You can use whatever tools you want. You may spend as little or as much time on the submission as you desire. If you already have something that meets the criteria below, you may submit that directly without any additional work.
+The task itself is entirely up to you to choose, but ideally you should choose something that focuses on using software to make life easier or better in some way. It would be nice to see the use of generative AI, but it is not a hard requirement. You can use whatever tools you want, as long as the language used is Python. You may spend as little or as much time on the submission as you desire. If you already have something that meets the criteria below, you may submit that directly without any additional work.
 
 If we like your submission, you’ll be called back for a follow-on interview where we can dig into the project together. Anything that is relevant to our mission or starts a good conversation will be treated favourably.
 
@@ -15,7 +15,7 @@ Here are the requirements of the take-home test:
 
 How you will be evaluated:
 1. Our focus will be on your contributions to the code base, not those of others.
-2. The quality of your code (such as use of coding standards, style checks, automated tests, clarity of documentation, and commit history)
+2. The quality of your code (such as use of coding standards, design patterns, style checks, automated tests, clarity of documentation, commit history)
 3. The novelty and creativity of your submission
 4. How relevant it is to our technical direction and our mission of becoming the intelligent operating system for creative work by developing autonomous agents for creative teams
 
