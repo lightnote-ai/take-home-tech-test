@@ -3,7 +3,7 @@
 ---
 The point of the take home task is to give you the opportunity to demonstrate your strengths in the most open and creative way possible.
 
-The task itself is entirely up to you to choose, but ideally you should choose something that focuses on using software to make life easier or better in some way. It would be nice to see the use of generative AI, but it is not a hard requirement. You can use whatever tools you want, as long as the language used is Python. You may spend as little or as much time on the submission as you desire. If you already have something that meets the criteria below, you may submit that directly without any additional work.
+The task itself is entirely up to you to choose, but ideally you should choose something that focuses on using software to make life easier or better in some way. It would be nice to see the use of generative AI, but it is not a hard requirement. You can use whatever tools you want, as long as the language used is Python (or Typescript if you are interviewing for our frontend role). You may spend as little or as much time on the submission as you desire. If you already have something that meets the criteria below, you may submit that directly without any additional work.
 
 If we like your submission, you’ll be called back for a follow-on interview where we can dig into the project together. Anything that is relevant to our mission or starts a good conversation will be treated favourably.
 
