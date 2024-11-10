@@ -5,7 +5,7 @@ The point of the take home task is to give you the opportunity to demonstrate yo
 
 The task itself is entirely up to you to choose, but ideally you should choose something that focuses on using software to make life easier or better in some way. It would be nice to see the use of generative AI, but it is not a hard requirement. You can use whatever tools you want, as long as the language used is Python (or Typescript if you are interviewing for our frontend role). You may spend as little or as much time on the submission as you desire. If you already have something that meets the criteria below, you may submit that directly without any additional work.
 
-If we like your submission, you’ll be called back for a follow-on interview where we can dig into the project together. Anything that is relevant to our mission or starts a good conversation will be treated favourably.
+If we like your submission, you’ll be called back for a follow-on interview where we can dig into the project together. Anything that is relevant to our mission or starts a good conversation will be treated favourably. You can read up more on that [here](https://pndlm.xyz/).
 
 Here are the requirements of the take-home test:
 1. The code you write needs to be pushed to a public git repository of your choosing (e.g. GitHub, Bitbucket, Gitlab, etc)
@@ -19,3 +19,7 @@ How you will be evaluated:
 3. The novelty and creativity of your submission
 4. How relevant it is to our technical direction and our mission of becoming the intelligent operating system for creative work by developing autonomous agents for creative teams
 
+Some project ideas: 
+1. Create a [web scraping agent](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/) and make it usable through a user inteface deployed on Vercel or your platform of choice.
+2. Extend [Open Canvas](https://github.com/langchain-ai/open-canvas) to display AI-made charts and visualisations like [Claude Artifacts](https://medium.com/@ral74/claude-artifacts-create-interactive-calculators-infographics-bdfce72310d4).
+3. Scrape a corpus of specific, niche web data (e.g. [Seth Godin's blog](https://seths.blog/)) and create a [RAG-based LLM over it](https://www.mongodb.com/developer/products/atlas/rag_with_claude_opus_mongodb).
